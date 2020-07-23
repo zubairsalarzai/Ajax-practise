@@ -1,0 +1,30 @@
+{
+    "class":"BCS-6A",
+    "course":"WEB-technologies",
+    "topic":"Ajax",
+    "date":"22nd july 2020",
+    "attendence":[
+        {
+            "student_id":"fa17-bcs-030",
+            "name":"zubair",
+            "std_status":"p"
+        },
+        {
+            "student_id":"fa17-bcs-032",
+            "name":"kashif",
+            "std_status":"p"
+        },
+        {
+            "student_id":"fa17-bcs-033",
+            "name":"talha",
+
+            "std_status":"a"
+        },
+        {
+            "student_id":"fa17-bcs-037",
+            "name":"adam",
+
+            "std_status":"p"
+        }
+    ]
+}
